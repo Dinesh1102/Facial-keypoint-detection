@@ -42,4 +42,4 @@ If you want to train the model follow these steps, else skip to inference sectio
 `pip install -r requirements.txt`
 
 ### Step 4: Run inference
-`python main.py`
+`python inference.py`
