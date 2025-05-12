@@ -32,7 +32,7 @@ This project performs facial keypoint detection using a deep learning model. It 
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Dinesh1102/Facial-keypoint-detection.git
 cd your-repo-name
 conda create -n facial-keypoints python=3.9
 conda activate facial-keypoints
