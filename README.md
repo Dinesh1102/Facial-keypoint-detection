@@ -33,7 +33,7 @@ This project performs facial keypoint detection using a deep learning model. It 
 
 ```bash
 git clone https://github.com/Dinesh1102/Facial-keypoint-detection.git
-cd your-repo-name
+cd Facial-keypoint-detection
 conda create -n facial-keypoints python=3.9
 conda activate facial-keypoints
 pip install -r requirements.txt
