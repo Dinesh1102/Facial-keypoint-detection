@@ -30,11 +30,15 @@ This project performs facial keypoint detection using a deep learning model. It 
 ## 🔍 Inference (Local Setup)
 
 ### Step 1: Clone the Repository
+`git clone https://github.com/Dinesh1102/Facial-keypoint-detection.git`
+`cd Facial-keypoint-detection`
 
-```bash
-git clone https://github.com/Dinesh1102/Facial-keypoint-detection.git
-cd Facial-keypoint-detection
-conda create -n facial-keypoints python=3.9
-conda activate facial-keypoints
-pip install -r requirements.txt
-python main.py
+### Step 2: Create a conda environment
+`conda create -n facial-keypoints python=3.11`
+`conda activate facial-keypoints`
+
+### Step 3: Install the requirements
+`pip install -r requirements.txt`
+
+### Step 4: Run interference
+`python main.py`
