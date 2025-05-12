@@ -22,8 +22,9 @@ This project performs facial keypoint detection using a deep learning model. It 
 ## 🧪 Training (Using Google Colab)
 If you want to train the model follow these steps, else skip to inference section to use pre-trained model directly.
 1. Open the `train.ipynb` notebook in **Google Colab**. [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AN7BTnyOPTPCgmy1jEbS-DelEcAU8ZFR?usp=sharing)
-2. Upload your `kaggle.json` file in the notebook session.
-3. Run all cells to train the model.
+2. Upload your `kaggle.json` file in the notebook when prompted.
+3. Run all cells to train the model and see results on test dataset.
+4. Upload the `submission.csv` file to competition to check the score of the model.
 
 ---
 
