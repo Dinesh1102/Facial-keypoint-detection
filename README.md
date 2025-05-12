@@ -40,5 +40,5 @@ This project performs facial keypoint detection using a deep learning model. It 
 ### Step 3: Install the requirements
 `pip install -r requirements.txt`
 
-### Step 4: Run interference
+### Step 4: Run inference
 `python main.py`
